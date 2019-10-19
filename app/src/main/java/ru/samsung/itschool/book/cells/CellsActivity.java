@@ -20,6 +20,7 @@ public class CellsActivity extends Activity implements OnClickListener,
 
     private int WIDTH = 10;
     private int HEIGHT = 10;
+    
 
     private Button[][] cells;
 
